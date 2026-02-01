@@ -46,8 +46,7 @@ Total Casualties and Total Accidents by Location
 
 📁 Data Source
 
-The dataset used for this project can be found [here] (add dataset link if public).
-
+The dataset used for this project can be found 
 🧹 Data Cleaning & Transformation
 
 The data preparation phase focused on ensuring accuracy and consistency:
@@ -86,7 +85,7 @@ Monthly trends for 2021 and 2022
 
 Helped uncover patterns and relationships between accidents and multiple influencing factors
 
-![Road Accident Dashboard](images/Data Analysis.png)
+![Data Analysis](Data Analysis.jpeg)
 
 📊 Data Visualization
 
