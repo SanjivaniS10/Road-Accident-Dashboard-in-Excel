@@ -85,7 +85,7 @@ Monthly trends for 2021 and 2022
 
 Helped uncover patterns and relationships between accidents and multiple influencing factors
 
-![Data Analysis](Data Analysis.jpeg)
+![Data Analysis]([Data Analysis.jpeg](https://github.com/SanjivaniS10/Road-Accident-Dashboard-in-Excel/blob/main/Data%20Analysis.jpeg))
 
 📊 Data Visualization
 
