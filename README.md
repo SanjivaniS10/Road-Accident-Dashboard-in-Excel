@@ -99,7 +99,7 @@ Linked charts and icons for seamless navigation
 
 User-friendly and visually intuitive layout
 
-![Road Accident Dashboard](http://github.com/SanjivaniS10/Road-Accident-Dashboard-in-Excel/blob/main/Road%20Accident%20Dashboard.jpeg)
+![Road Accident Dashboard](https://github.com/SanjivaniS10/Road-Accident-Dashboard-in-Excel/blob/main/Road%20Accident%20Dashboard.jpeg)
 
 🔍 Key Insights
 
